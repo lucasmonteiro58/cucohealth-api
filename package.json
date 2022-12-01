@@ -1,0 +1,11 @@
+{
+  "name": "cucohealth-clients-api",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3003"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
